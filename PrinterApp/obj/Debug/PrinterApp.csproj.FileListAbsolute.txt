@@ -1,0 +1,34 @@
+D:\GitHub Repos\PrinterApp\PrinterApp\bin\Debug\PrinterApp.exe.config
+D:\GitHub Repos\PrinterApp\PrinterApp\bin\Debug\PrinterApp.exe
+D:\GitHub Repos\PrinterApp\PrinterApp\bin\Debug\PrinterApp.pdb
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.csprojAssemblyReference.cache
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.PrinterApp.resources
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.ProjectInstaller.resources
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.csproj.GenerateResource.cache
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.exe
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.pdb
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\obj\Debug\PrinterApp.csprojAssemblyReference.cache
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\obj\Debug\PrinterApp.PrinterApp.resources
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\obj\Debug\PrinterApp.ProjectInstaller.resources
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\obj\Debug\PrinterApp.csproj.GenerateResource.cache
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\obj\Debug\PrinterApp.csproj.CoreCompileInputs.cache
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\obj\Debug\PrinterApp.exe
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\obj\Debug\PrinterApp.pdb
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\PrinterApp.exe.config
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\PrinterApp.exe
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\PrinterApp.pdb
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Spire.License.dll
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Spire.Pdf.dll
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.PdfViewer.Windows.dll
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Microsoft.mshtml.dll
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Spire.License.xml
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Spire.Pdf.xml
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.PdfViewer.Windows.xml
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Misc\PrinterApp\PrinterApp-master\PrinterApp\obj\Debug\PrinterApp.csproj.CopyComplete

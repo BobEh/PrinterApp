@@ -1,0 +1,8 @@
+D:\GitHub Repos\PrinterApp\PrinterApp\bin\Release\PrinterApp.exe.config
+D:\GitHub Repos\PrinterApp\PrinterApp\bin\Release\PrinterApp.exe
+D:\GitHub Repos\PrinterApp\PrinterApp\bin\Release\PrinterApp.pdb
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Release\PrinterApp.PrinterApp.resources
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Release\PrinterApp.ProjectInstaller.resources
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Release\PrinterApp.csproj.GenerateResource.cache
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Release\PrinterApp.exe
+D:\GitHub Repos\PrinterApp\PrinterApp\obj\Release\PrinterApp.pdb
